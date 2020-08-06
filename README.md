@@ -1,7 +1,7 @@
 ## Hello, it's iMaeGoo!
 
 [![mail](https://img.shields.io/badge/Email-hello@imaegoo.com-F2572D?style=flat-square)](mailto:hello@imaegoo.com)
-[![blog](https://img.shields.io/badge/Blog-imaegoo.com-008972?style=flat-square)](mailto:hello@imaegoo.com)
+[![blog](https://img.shields.io/badge/Blog-imaegoo.com-008972?style=flat-square)](https://www.imaegoo.com)
 [![twitter](https://img.shields.io/badge/Twitter-@imaegoo-00ABD8?style=flat-square&logo=twitter)](https://twitter.com/imaegoo)
 [![tg](https://img.shields.io/badge/Telegram-@imaegoo-0067A6?style=flat-square&logo=telegram)](https://t.me/imaegoo)
 
