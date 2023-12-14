@@ -1,7 +1,7 @@
 ## Hello, it's iMaeGoo!
 
 [![mail](https://img.shields.io/badge/Email-hello@imaegoo.com-F2572D?style=flat-square)](mailto:hello@imaegoo.com)
-[![blog](https://img.shields.io/badge/Blog-imaegoo.com-008972?style=flat-square)](https://www.imaegoo.com)
+[![blog](https://img.shields.io/badge/Blog-www.imaegoo.com-008972?style=flat-square)](https://www.imaegoo.com)
 
 咕咕 / 咕\~咕\~ / 咕咕\~ / 咕 / 咕\~咕\~咕 / 咕\~咕\~咕\~ / 咕\~咕\~咕\~
 
